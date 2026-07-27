@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import { useState,React } from 'react'
+import ReactDOM from "react-dom/client";
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
